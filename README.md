@@ -1,2 +1,2 @@
 # tindog
-https://ayushjain09.github.io/tindog/
+https://rahul-jangra-13.github.io/tindog/
